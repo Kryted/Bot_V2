@@ -1,3 +1,4 @@
+from src.functions import reading_employee, write_employee, add_new_employee, delete_old_employee, search_employee_data
 import telebot
 from telebot import types
 
