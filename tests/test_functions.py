@@ -2,8 +2,6 @@ from src.functions import reading_employee, write_employee, add_new_employee, de
 from config import ROOT_DIR
 import os
 import pytest
-import sys
-print(sys.path)
 
 
 
